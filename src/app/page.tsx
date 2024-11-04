@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 export default function Calculator () {
 
   const arr : any = [
-    `C`, `x`, ``, ``,   // First row with "C" and "x" only
+    `C`, ``, ``, `x`,   // First row with "C" and "x" only
     `7`, `8`, `9`, `/`, // Second row starts with numbers and operator
     `4`, `5`, `6`, `*`,
     `1`, `2`, `3`, `-`,
